@@ -1,11 +1,14 @@
-# CorePatch
-## Disable signature verification
+# CorePatch 
+## A Module For Xposed Framework
+## Disable signature verification For Android
+# Description
 ### branch master -> support  android 4.4-7.x  
-### branch Q -> support android 9.0-10.0  
-> # Fetures
+### branch Q -> support android 9.0-10.0 
 
->> allow downgrade application
+# Fetures
 
->> allows install apps which signature corrupted
+> allow downgrade application
 
->> allow overlay install apps with inconsistent signatures
+> allows install apps which signature corrupted
+
+> allow overlay install apps with inconsistent signatures
